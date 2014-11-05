@@ -5,3 +5,5 @@ group :test do
 end
 
 gemspec
+
+gem 'jimson-temp', github: 'ress/jimson', branch: 'next'
